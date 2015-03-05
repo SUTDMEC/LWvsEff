@@ -6,7 +6,11 @@ This MATLAB codebase supports the paper: "APPLYING OPTIMAL CHOICES FOR REAL POWE
 
 The files should run without any special MATLAB toolboxes.
 
-The optimization routine is run by 'LWcase_knapcask' and is called by the scripts described below:
+The optimization routine is run by 'LWcase_knapcask' which is based on 
+
+http://www.mathworks.com/matlabcentral/fileexchange/22783-0-1-knapsack/content/knapsack.m by Petter Strandmark
+
+and is called by the scripts described below:
 
 LWcase_no_sens – no sensitivity analysis performed
 
